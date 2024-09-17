@@ -1,5 +1,7 @@
 ## Phonology
 
+### Consonants
+
 | Manner/Place | Bilabial | Labiodental | Alveolar | Palatal | Velar | Glottal |
 |--------------|----------|-------------|----------|---------|-------|---------|
 | Nasal        | m        |             | n        |         | ŋ     |         |
@@ -8,3 +10,30 @@
 | Fricative    |          | f v         | s z      | ɕ ʑ     |       | h       |
 | Approximant  |          | ʋ           | l        | j       | w     |         |
 | Trill        |          |             | r        |         |       |         |
+
+### Vowels
+
+|       | Front | Central | Back |
+|-------|-------|---------|------|
+| Close | i     |         | u    |
+| Mid   | e     | ə       | o    |
+| Open  | a     |         |      |
+
+### Diphthongs
+
+ai  
+au  
+ei  
+eu  
+iu  
+ia  
+io  
+ie  
+iə  
+ua  
+ue  
+ui  
+uo  
+uə  
+oi  
+ou  
