@@ -17,3 +17,12 @@ vowels = [
     'a', 'e', 'i', 
     'o', 'u', 'ə', 
 ]
+
+diphthongs = [
+    "aə", "ai", "au",
+    "eə", "ei", "eu",
+    "əu",
+    "ia", "ie", "iə", "", "io", "iu",
+    "oə", "oi", "ou",
+    "ua", "ue", "uə", "ui", "uo"
+]
