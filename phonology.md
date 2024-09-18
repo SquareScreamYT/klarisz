@@ -21,19 +21,11 @@
 
 ### Diphthongs
 
-ai  
-au  
-ei  
-eu  
-iu  
-ia  
-io  
-ie  
-iə  
-ua  
-ue  
-ui  
-uo  
-uə  
-oi  
-ou  
+|   | a  | e  | ə  | i  | o  | u  |
+|---|----|----|----|----|----|----|
+| a |    |    | aə | ai |    | au |
+| e |    |    | eə | ei |    | eu |
+| ə |    |    |    |    |    | əu |
+| i | ia | ie | iə |    | io | iu |
+| o |    |    | oə | oi |    | ou |
+| u | ua | ue | uə | ui | uo |    |
