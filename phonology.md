@@ -2,14 +2,14 @@
 
 ### Consonants
 
-| Manner/Place | Bilabial | Labiodental | Alveolar | Postalveolar | Palatal | Velar | Glottal |
-|--------------|----------|-------------|----------|--------------|---------|-------|---------|
-| Nasal        | m        |             | n        |              |         | ŋ     |         |
-| Plosive      | p b      |             | t d      |              |         | k g   | ʔ       |
-| Affricate    |          |             | ts dz    | tʃ dʒ        |         |       |         |
-| Fricative    |          | f v         | s z      | ʃ ʒ          | ç       |       | h       |
-| Approximant  |          |             | l        |              | j       | w     |         |
-| Trill        |          |             | r        |              |         |       |         |
+| Manner/Place | Bilabial | Labiodental | Alveolar  | Postalveolar | Palatal | Velar  | Glottal |
+|--------------|----------|-------------|-----------|--------------|---------|--------|---------|
+| Nasal        | m        |             | n         |              |         | ŋ      |         |
+| Plosive      | pʰ p b   |             | tʰ t d    |              |         | kʰ k g | (ʔ)     |
+| Affricate    |          |             | tsʰ ts dz | tʃʰ tʃ dʒ    |         |        |         |
+| Fricative    |          | f v         | s z       | ʃ ʒ          | ç       |        | h       |
+| Approximant  |          |             | l         |              | j       | w      |         |
+| Trill        |          |             | r         |              |         |        |         |
 
 ### Vowels
 
