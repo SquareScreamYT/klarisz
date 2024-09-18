@@ -17,7 +17,7 @@ onset = [
     'm', 'n', 'ŋ', 
     'pʰ', 'p', 'b', 
     'tʰ', 't', 'd', 
-    'kʰ', 'k', 'g', '',
+    'kʰ', 'k', 'g', '.', # if after consonant replace with nothing else glottal stop
     'tsʰ', 'ts', 'dz', 
     'tʃʰ', 'tʃ', 'dʒ',
     'f', 'v',
