@@ -90,4 +90,4 @@ def assign_verbs():
 
 assign_verbs()
 print("\n".join(translated_verbs))
-print(dupes)
+# print(dupes)
