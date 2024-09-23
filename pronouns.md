@@ -5,6 +5,8 @@
 | **Singular** Male   | yno        | ejo        | her        |
 | **Singular** Female | yna        | eja        | zer        |
 | **Singular** Other  | yne        | eje        | ter        |
+| **Singular** Inanimate| yni      | eju        | per        |
 | **Plural** Male     | yso        | eso        | sor        |
 | **Plural** Female   | ysa        | esa        | sar        |
 | **Plural** Other    | yse        | ese        | ser        |
+| **Plural** Inanimate| ysi        | eju        | pir        |
