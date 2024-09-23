@@ -23,7 +23,7 @@
 
 ### Phonotactic Rules:
 
-- **c** can only be followed by **l**, **w**, **y**, or **r** as onset.
-- **c** can be preceded by any sound except fricatives.
+- **tʃ** can only be followed by **l**, **w**, **j**, or **r** as onset.
+- **tʃ** can be preceded by any sound except fricatives.
 - **ŋ** is an allophone of **n** before **g** or **k**.
 - **h** cannot be a coda.
