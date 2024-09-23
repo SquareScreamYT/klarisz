@@ -9,4 +9,4 @@
 | **Plural** Male     | yso        | eso        | sor        |
 | **Plural** Female   | ysa        | esa        | sar        |
 | **Plural** Other    | yse        | ese        | ser        |
-| **Plural** Inanimate| ysi        | eju        | pir        |
+| **Plural** Inanimate| ysi        | eju        | sir        |
