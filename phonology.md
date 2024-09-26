@@ -11,15 +11,16 @@
 
 ### Vowels
 
-|           | Front | Central | Back |
-|-----------|-------|---------|------|
-| **Close** | i     |         | u    |
-| **Mid**   | e     | ə       | o    |
-| **Open**  | a     |         |      |
+|           | Front | Back |
+|-----------|-------|------|
+| **Close** | i     | u    |
+| **Mid**   | e~ə   | o    |
+| **Open**  | a     |      |
 
 ---
 
 ### Phonotactic Rules:
 
-- **ŋ** is an allophone of **n** before **g** or **k**.
+- **ŋ** cannot be an onset.
 - **x** cannot be a coda.
+- **e** at the end of a word will become **ə**.
