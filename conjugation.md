@@ -1,12 +1,12 @@
 ### Conjugation
 
-|             | Perfective (Completed) | Inperfective (Ongoing) | Continuous |
-|-------------|------------------------|------------------------|------------|
-| Past        | -(e)ma                 | -(e)na                 | -(e)sa     |
-| Near Past   | -(e)me                 | -(e)ne                 | -(e)se     |
-| Present     | -(i)r                  | -(i)w                  | -(i)t      |
-| Near Future | -(e)ha                 | -(e)za                 | -(e)fa     |
-| Future      | -(e)ho                 | -(e)zo                 | -(e)fo     |
+|             | Perfective (Completed) | Inperfective (Ongoing) |
+|-------------|------------------------|------------------------|
+| Past        | -(e)ma                 | -(e)sa                 |
+| Near Past   | -(e)ma                 | -(e)sa                 |
+| Present     | -(i)r                  | -(i)w                  |
+| Near Future | -(e)ha                 |
+| Future      | -(e)ha                 |
 
 can: -(d)ek  
 may: -(m)i  
