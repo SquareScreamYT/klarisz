@@ -11,6 +11,6 @@
 can: -(d)ek  
 may: -(m)i  
 must: -(m)us  
-need: -(b)a
-should: -(ç)e
-not: -(n)aj
+need: -(b)a  
+should: -(ç)e  
+not: -(n)aj  
