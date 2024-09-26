@@ -2,14 +2,12 @@
 
 ### Consonants
 
-| Manner/Place | Bilabial | Labiodental | Alveolar | Postalveolar | Palatal  | Velar  | Glottal |
-|--------------|----------|-------------|----------|--------------|----------|--------|---------|
-| **Nasal**    | m        |             | n        |              |          | ŋ      |         |
-| **Plosive**  | p, b     |             | t, d     |              |          | k, g   |         |
-| **Affricate**|          |             |          | tʃ           |          |        |         |
-| **Fricative**|          | f, v        | s, z     | ʃ , ʒ        |          |        | h       |
-| **Approximant**|        |             | l        |              | j (y)    | w      |         |
-| **Trill**    |          |             | r        |              |          |        |         |
+| Manner/Place | Bilabial | Alveolar | Palatal  | Velar  |
+|--------------|----------|----------|----------|--------|
+| **Nasal**    | m        | n        | ɲ        | ŋ      |
+| **Plosive**  | p, b     | t, d     | ɟ        | k, g   |
+| **Fricative**| ɸ~f, β\~v| s, z     | ç        | x\~h   |
+| **Liquid**   |          | ɾ\~l\~r  | j        | w      |
 
 ### Vowels
 
@@ -23,7 +21,5 @@
 
 ### Phonotactic Rules:
 
-- **tʃ** can only be followed by **l**, **w**, **j**, or **r** as onset.
-- **tʃ** can be preceded by any sound except fricatives.
 - **ŋ** is an allophone of **n** before **g** or **k**.
-- **h** cannot be a coda.
+- **x** cannot be a coda.
